@@ -28,7 +28,7 @@ Thanks for all contributors of the project:
 * Phillip Schichtel
 * Lionel Seinturier
 * Stefan Wolf
-
+* Test Test
 And special thanks for original spooners:
 
 ![Spooners]({{ "/images/spoonTeam.jpg" | prepend: site.baseurl }})
@@ -40,3 +40,4 @@ Spoon was originally created by Renaud Pawlak (aka Master Yoda), Nicolas Petitpr
 ![Big logo]({{ "/images/spoon.jpg" | prepend: site.baseurl }})
 ![Big powered logo]({{ "/images/spoonpowered_big.jpg" | prepend: site.baseurl }})
 ![Small powered logo]({{ "/images/spoonpowered.jpg" | prepend: site.baseurl }})
+
